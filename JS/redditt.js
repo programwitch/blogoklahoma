@@ -1,15 +1,18 @@
 /*
-*  (Using Bootstrap 5)
+*
+* (Using Bootstrap, Fontawesome)
+*
 * <div class="card mb-3">
 *     <div class="card-body card-max bg-light p-2 rd25">
 *          <h5 class="card-title">
-*              <a href="https://reddit.com/r/blogoklahoma" class="text-dark tt" target="_blank" title="Join us on Reddit: r/blogoklahoma"><span id="redditLoading"><i class="fab fa-reddit-alien fa-fw text-reddit"></i></span> Links</a>
+*              <a href="https://reddit.com/r/blogoklahoma" class="text-dark tt" target="_blank" title="Join us on Reddit: r/blogoklahoma">
+* 					<span id="redditLoading"><i class="fab fa-reddit-alien fa-fw text-reddit"></i></span> Links
+*				</a>
 *           </h5>
 *        <div id="reddit">
 *        </div>
 *     </div>
 *   </div>
-*
 *
 */
 
