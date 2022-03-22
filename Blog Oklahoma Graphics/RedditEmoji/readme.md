@@ -1,4 +1,4 @@
-We used these as custom emoj on some subreddits we help manage 
+We used these as custom emoji on some subreddits we help manage 
 
 - [r/blogoklahoma](https://reddit.com/r/blogoklahoma)
 - [r/oklahomahistory](https://reddit.com/r/oklahomahistory)
