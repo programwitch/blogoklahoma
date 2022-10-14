@@ -10,10 +10,10 @@ The color set used on the Blog Oklahoma websites were inspired by the State of O
 
 ## OK Colors
 
-- ![#1da4dc](https://via.placeholder.com/15/1da4dc/000000?text=+) Light Blue 1: #1da4dc
-- ![#0164a5](https://via.placeholder.com/15/0164a5/000000?text=+) Dark Blue 1: #0164a5
-- ![#659a40](https://via.placeholder.com/15/659a40/000000?text=+) Light Green: #659a40
-- ![#33691e](https://via.placeholder.com/15/33691e/000000?text=+) Dark Green: #33691e
+- ![#1da4dc](https://via.placeholder.com/15/1da4dc/000000?text=X) Light Blue 1: #1da4dc
+- ![#0164a5](https://via.placeholder.com/15/0164a5/000000?text=X) Dark Blue 1: #0164a5
+- ![#659a40](https://via.placeholder.com/15/659a40/000000?text=X) Light Green: #659a40
+- ![#33691e](https://via.placeholder.com/15/33691e/000000?text=X) Dark Green: #33691e
 - ![#d15521](https://via.placeholder.com/15/d15521/000000?text=+) Light Orange: #d15521
 - ![#904214](https://via.placeholder.com/15/904214/000000?text=+) Dark Orange: #904214
 - ![#dc8f25](https://via.placeholder.com/15/dc8f25/000000?text=+) Light Gold: #dc8f25
