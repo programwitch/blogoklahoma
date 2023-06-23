@@ -15,15 +15,18 @@ These are misc projects for the Blog Oklahoma Network.
  - Mastodon: [@blogoklahoma@social.tulsa.ok.us](https://social.tulsa.ok.us/@blogoklahoma)
  - Twitter: [@blogoklahoma](https://twitter.com/@blogoklahoma)
 
-
 ## Code, Etc.
 
 ### JS
 
-Javascript to display last 10 subreddit posts: **JS/reddit.js**
-
+- Javascript to display last 10 subreddit posts: **JS/reddit.js**
+- Javascript to display last 10 substack posts: **JS/substack.js**
 
 ### Blog Oklahoma Graphics
 
-Some assorted graphics for the **Exploring Oklahoma History** update. Oklahoma counties, region maps.  
+- Some assorted graphics for the **Exploring Oklahoma History** update. Oklahoma counties, region maps.  
+
+### Rabbit Hole Projects
+
+- Oklahoma Weather Alerts to Mastdon project **Rabbit Hole/WxAlerts**
 
