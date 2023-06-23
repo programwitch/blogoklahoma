@@ -5,8 +5,8 @@ A project to post Oklahoma Weather Alerts to Mastodon.
 
 - Javascript
 - [National Weather Service / API Web Service](https://www.weather.gov/documentation/services-web-api)
-- JQuery
-- Bootstrap
+- [jQuery](https://jquery.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Log
 
