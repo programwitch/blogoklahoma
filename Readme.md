@@ -13,8 +13,7 @@ These are misc projects for the Blog Oklahoma Network.
 ## Connect
 
  - Mastodon: [@blogoklahoma@social.tulsa.ok.us](https://social.tulsa.ok.us/@blogoklahoma)
- - Twitter: [@blogoklahoma](https://twitter.com/@blogoklahoma)
-
+ 
 ## Code, Etc.
 
 ### JS
