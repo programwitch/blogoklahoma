@@ -1,7 +1,10 @@
 {
     "Wx": {
-        "apiAlerts": "https://api.weather.gov/alerts/active/area/",
+        "apiUse" : "area",
+        "apiAlertsArea": "https://api.weather.gov/alerts/active/area/",
         "state": "OK",
+        "apiAlertsZone": "https://api.weather.gov/alerts/active/zone/",
+        "zone": "OKZ021",
         "regions": [
             {
                 "nwsName":"NWS Norman OK",
@@ -31,8 +34,8 @@
     },
     "Mastodon": {
         "apiPost": "/api/v1/statuses",
-        "url": "https://(your instance here)",
-        "token": "(your token here)",
+        "url": "https://social.tulsa.ok.us",
+        "token": "(Your Mastodon Token)",
         "postSize": 500,
         "postLead": "#okwx "
     }
