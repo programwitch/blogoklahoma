@@ -2,7 +2,7 @@
 
 **A project to post Oklahoma Weather Alerts to Mastodon.**
 
-This is one of my rabbit hole projects, meaning I was just curious if I caould make it work. Ha!  This code is provided as-is.  You are free to use it for your own projects.  
+This is one of my rabbit hole projects, meaning I was just curious if I could make it work. Ha!  This code is provided as-is.  You are free to use it for your own projects.  
 
 If you have any questions, please feel free to ask me at [@blogoklahoma@social.tulsa.ok.us](https://social.tulsa.ok.us/@blogoklahoma).  
 
