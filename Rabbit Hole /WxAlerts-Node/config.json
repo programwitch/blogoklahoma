@@ -37,6 +37,7 @@
         "url": "https://social.tulsa.ok.us",
         "token": "(Your Mastodon Token)",
         "postSize": 500,
-        "postLead": "#okwx "
+        "postLead": "#okwx ",
+         "posting" : "on"
     }
 }
