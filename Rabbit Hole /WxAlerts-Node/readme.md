@@ -1,6 +1,6 @@
 # WxAlerts Node.js
 
-## A project to post Oklahoma Weather Alerts to Mastodon.
+**A project to post Oklahoma Weather Alerts to Mastodon.**
 
 This is one of my rabbit hole projects, meaning I was just courouse if I caould make it work. Ha!  This code is provided as-is.  You are free to use it for your own projects.  
 
