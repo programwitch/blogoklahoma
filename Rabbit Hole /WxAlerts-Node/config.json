@@ -38,6 +38,6 @@
         "token": "(Your Mastodon Token)",
         "postSize": 500,
         "postLead": "#okwx ",
-         "posting" : "on"
+        "posting" : "on"
     }
 }
