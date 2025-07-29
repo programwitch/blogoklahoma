@@ -8,7 +8,6 @@ These are misc projects for the Blog Oklahoma Network.
 -  [Blog Oklahoma Podcast](https://blogoklahoma.net)
 -  [Exploring Oklahoma History](http://blogoklahoma.us)
 -  [Program Witch Pages](http://programwitch.com)
--  [Oklahoma High School Sports Forum](https://okpreps.boards.net)
 
 ## Connect
 
